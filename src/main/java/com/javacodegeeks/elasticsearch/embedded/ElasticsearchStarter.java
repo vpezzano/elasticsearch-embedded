@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /*
  * This will run ElasticSearch inside the JVM process; such technique is commonly referred as embedding.
- * Embedded version of the Elasticsearch is not officially supported and not recommended.
+ * Embedded version of Elasticsearch is not officially supported and not recommended.
  */
 @SpringBootApplication
 public class ElasticsearchStarter {
